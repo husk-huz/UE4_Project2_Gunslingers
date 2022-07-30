@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\UE4\\Project\\tmp\\Netshoot\\Source\\Netshoot\\Netshoot.Build.cs",
+		"D:\\UE4\\Project\\tmp\\Netshoot\\Source\\Netshoot.Target.cs",
+		"D:\\UE4\\Project\\tmp\\Netshoot\\Source\\NetshootEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
